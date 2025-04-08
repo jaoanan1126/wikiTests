@@ -65,7 +65,7 @@ export async function run(page: Page, params: {}) {
 
     /** STEP: Click the language selection dropdown to choose a different language */
     const languageDropdownToggle = page.getByRole('button', {
-        name: /Ir a un artículo en otro/,
+        name: /Ir a un artículo en otro/i,
     });
     await languageDropdownToggle.click();
 
