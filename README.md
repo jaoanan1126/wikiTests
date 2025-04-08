@@ -81,6 +81,11 @@ If given infinite time and patience some improvements I would prioritize would b
 -   Node.js v22+
 -   npm
 
+### .env file should have the following variables:
+WIKIPEDIA_USERNAME= <Username>
+WIKIPEDIA_PASSWORD= <Password>
+TARGET_URL='https://en.wikipedia.org/'
+
 ### Quick Start
 
 ```bash
