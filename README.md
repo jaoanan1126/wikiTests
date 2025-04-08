@@ -41,6 +41,10 @@ I've improved the Wikipedia Homepage Actions test to correct failed tests and en
 - Theme Testing: Implemented reliable color change for changes in color theme
 - Article Count Validation: Added verification that the article count falls within expected parameters while accommodating Wikipedia's growing content base
 
+#### Updated test run: 
+Below is a photo of the passed tests:  
+
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/3540cb91-471a-4619-b361-12007da18e2c" />
 
 ## Future Improvements
 
