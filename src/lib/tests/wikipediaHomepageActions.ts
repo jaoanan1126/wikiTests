@@ -15,7 +15,7 @@ import test, { Page, expect } from '@playwright/test';
  * Good luck!
  */
 
-test('Actions on Wikipedia homepage', async ({ page }) => {
+export async function run(page: Page, params: {}) {
     /** STEP: Navigate to URL */
     await page.goto('/wiki/Main_Page');
 
@@ -67,4 +67,4 @@ test('Actions on Wikipedia homepage', async ({ page }) => {
     });
 
     expect(darkBackgroundColor).not.toBe(lightBackgroundColor)
-});
+};

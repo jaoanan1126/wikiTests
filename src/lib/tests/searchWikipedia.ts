@@ -18,7 +18,7 @@ import test, { Page, expect } from '@playwright/test';
  *
  * Good luck!
  */
-test('Search Wikipedia', async ({ page }) => {
+export async function run(page: Page, params: {}) {
     /** STEP: Navigate to URL */
     await page.goto('https://www.wikipedia.org/');
 
@@ -137,4 +137,4 @@ test('Search Wikipedia', async ({ page }) => {
     await expect(latestEditor, 
         `Expected latest edit to be by "${predictedLastEditor}", but found "${editorName}"`
       ).toHaveText(predictedLastEditor);
-});
+};
