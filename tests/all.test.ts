@@ -7,7 +7,7 @@ const test = base.extend({
 });
 
 import './searchWikipedia.test';
-import './wikipediaHomepageActionst.test';
+import './wikipediaHomepageActions.test';
 
 const wikipediaUsername = process.env.WIKIPEDIA_USERNAME;
 test('User should be logged in', async ({ page }) => {

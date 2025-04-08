@@ -5,7 +5,7 @@
       "value": "1",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1744170001.99115,
+      "expires": 1744170879.242573,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -15,7 +15,7 @@
       "value": "08-Apr-2025",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1746835200.991271,
+      "expires": 1746835200.242746,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -25,7 +25,7 @@
       "value": "08-Apr-2025",
       "domain": ".wikipedia.org",
       "path": "/",
-      "expires": 1746835200.992436,
+      "expires": 1746835200.243528,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -45,7 +45,7 @@
       "value": "0.001",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1744087201.992471,
+      "expires": 1744088079.243613,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -55,7 +55,7 @@
       "value": "08-Apr-2025",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1746835200.15249,
+      "expires": 1746835200.376724,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -75,7 +75,7 @@
       "value": "0.001",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1744087202.152556,
+      "expires": 1744088079.37691,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -85,7 +85,7 @@
       "value": "08-Apr-2025",
       "domain": "login.wikimedia.org",
       "path": "/",
-      "expires": 1746835200.26731,
+      "expires": 1746835200.502015,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -95,14 +95,14 @@
       "value": "0.001",
       "domain": "login.wikimedia.org",
       "path": "/",
-      "expires": 1744087202.267362,
+      "expires": 1744088079.502208,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "enwikimwuser-sessionId",
-      "value": "a5139c1a10eadc9ba424",
+      "value": "1058b8fbe9c97da91bc7",
       "domain": "auth.wikimedia.org",
       "path": "/",
       "expires": -1,
@@ -112,7 +112,7 @@
     },
     {
       "name": "authSession",
-      "value": "65g99q5g4bi2fgpn3rscsvc55r2rsamu",
+      "value": "1h7da1appdkes84m338l06g0fbf31j55",
       "domain": "auth.wikimedia.org",
       "path": "/",
       "expires": -1,
@@ -125,7 +125,7 @@
       "value": "49488645",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1746675603.760807,
+      "expires": 1746676480.866701,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -135,7 +135,7 @@
       "value": "Joaneybaloneyy",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1746675603.760862,
+      "expires": 1746676480.866711,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -145,14 +145,14 @@
       "value": "Joaneybaloneyy",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1746675603.760898,
+      "expires": 1746676480.866718,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "centralauth_Session",
-      "value": "07d1174d49eacceb555a61a0faf3236c",
+      "value": "acf9e6333b8f4177ee3ad9b370453328",
       "domain": "auth.wikimedia.org",
       "path": "/",
       "expires": -1,
@@ -162,20 +162,20 @@
     },
     {
       "name": "loginnotify_prevlogins",
-      "value": "2025-qu98v0-765iydcp1ir5912keu7ddy3f5yytim",
+      "value": "2025-ur4u5a-7j12xzez6l63esrt8jrdm149ndwgtt9",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1759635603.760968,
+      "expires": 1759636480.866734,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "cpPosIndex",
-      "value": "1%401744083603%230acb5843706dc23912216064de543137",
+      "value": "2%401744084480%230acb5843706dc23912216064de543137",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1744083613.761006,
+      "expires": 1744084490.866742,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -185,14 +185,14 @@
       "value": "master",
       "domain": "auth.wikimedia.org",
       "path": "/",
-      "expires": 1744083613.761041,
+      "expires": 1744084490.866751,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "enwikiSession",
-      "value": "4r2n2g4c362ikdc0p76he8lro68lcqh2",
+      "value": "1lqlra50k9tkgrpuluthjeupek6f0qnp",
       "domain": "en.wikipedia.org",
       "path": "/",
       "expires": -1,
@@ -205,7 +205,7 @@
       "value": "49488645",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1746675604.512251,
+      "expires": 1746676481.782722,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -215,7 +215,7 @@
       "value": "Joaneybaloneyy",
       "domain": "en.wikipedia.org",
       "path": "/",
-      "expires": 1746675604.512298,
+      "expires": 1746676481.782731,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
@@ -225,14 +225,14 @@
       "value": "Joaneybaloneyy",
       "domain": ".wikipedia.org",
       "path": "/",
-      "expires": 1746675604.51234,
+      "expires": 1746676481.782738,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "centralauth_Session",
-      "value": "6f68eeaaf8f5be7483aa676f1124022e",
+      "value": "e963e90b68968c5b8f5a0865f682eb48",
       "domain": ".wikipedia.org",
       "path": "/",
       "expires": -1,
@@ -251,7 +251,7 @@
         },
         {
           "name": "wmE-sessionTickLastTickTime",
-          "value": "1744083602951"
+          "value": "1744084480252"
         }
       ]
     }
