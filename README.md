@@ -23,7 +23,6 @@ Each test file contains more detailed instructions.
 
 After you finish all three tests, please come back to this file. Imagine Wikipedia is a Ranger customer, and these tests are part of their end-to-end test suite. Write a technical message to Wikipedia describing the updates you made to `searchWikipedia.ts` and `wikipediaHomepageActions.ts`—specifically, what changed and why.
 
-> [Add message here explaining your updates to `searchWikipedia.ts` and `wikipediaHomepageActions.ts`]
 ## Message to Wikipedia
 
 #### Updates to the Search Feature test
